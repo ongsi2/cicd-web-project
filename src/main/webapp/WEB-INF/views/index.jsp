@@ -4,7 +4,7 @@
 <body>
     <h2>It's thmm working on Tomcat server(9.0.66)</h2>
     <hr>
-    <h1>Hi bye, there (updated by thmm)</h1>
+    <h1>Hi bye2, there (updated by thmm)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
 </body>
